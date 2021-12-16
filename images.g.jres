@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Earth"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAADAAAAAAAAADMAADAAADAzAwMAAwAAMAAzAzAAAAAwIDMwAwAAADAiAzAAAAAAMiIjMAAAAAAiMzMzMwMAAAAiMjMAAAAAADMzMDMAAAAAIwIzMDMAAAAzMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "RED MAN"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

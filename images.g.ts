@@ -126,6 +126,25 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 `;
+            case "image2":
+            case "RED MAN":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . 2 2 . . . . . . . 
+. . . 3 3 3 3 3 2 . . . . . . . 
+. . . 3 . . 2 2 3 2 3 3 3 . . . 
+. . . 3 . 2 2 2 3 2 3 2 3 . . . 
+. 3 3 3 3 3 3 3 3 2 3 2 3 . . . 
+. . 3 . 3 3 . 2 3 3 3 . 3 . . . 
+. . . 3 3 . . . 3 3 . 3 3 . . . 
+. . . . . 3 3 3 3 3 3 3 3 . . . 
+. . . . . 3 . . 3 . 3 . 3 . . . 
+. . . . 3 . . . 3 . 3 3 3 . . . 
+. . . 3 . . . . 3 . . 3 . . . . 
+. . 3 . . . . . . . . 3 . . . . 
+`;
         }
         return null;
     })
