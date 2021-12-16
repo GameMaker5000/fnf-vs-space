@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="+|l_QhQ4Jyfm8-%zWQ?f">Player</variable><variable type="KIND_SpriteKind" id="`6KYpuIEaME6OEEx=YS?">Projectile</variable><variable type="KIND_SpriteKind" id="/@iT$f:QqWTnf[B}YQR[">Food</variable><variable type="KIND_SpriteKind" id="xG+JUgrD^C0q=JRQHYFf">Enemy</variable><variable id="W{05w)S*#S4FseA]v5}n">Red</variable><variable id=".Wnu,V%vj:{hPv/aIEJy">mySprite</variable></variables><block type="pxt-on-start" id="3SlFILS/?{I|1n^k=||L" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="Z[ROtW~@vx9kUM[?Rl,i"><field name="VAR" id="W{05w)S*#S4FseA]v5}n">Red</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="6`R,1_8f#pJxYG]FrzA?"><value name="img"><shadow type="screen_image_picker" id="+QU~jc0fg,0g5W6T%:w0"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . 2 2 . . . . . . . 
+. . . . . . . 2 2 . . . . . . . 
+. . . . . . 2 2 2 2 . . . . . . 
+. . . . . 2 2 2 2 2 2 2 . . . . 
+. . . . . 2 2 2 2 2 2 2 . . . . 
+. . . . . . . 2 2 2 2 . . . . . 
+. . . . . . . . 2 2 . . . . . . 
+. . . . . . . . 2 2 . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"+QU~jc0fg,0g5W6T%:w0"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="WCY5]cvlr!st`~24+Wc|"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="pv/q!+nLq^;q2t_]W,NR"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="2" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id=",t8b6LT+)UyIfxwI0xi$"><field name="VAR" id="W{05w)S*#S4FseA]v5}n">Red</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="KMnJw[FgojDc%rwMBJA$"><field name="speed">200</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id="y:Cv?P;x#VM)K7s*%Y5a"><field name="speed">200</field></shadow></value><next><block type="gamesetbackgroundimage" id="DE9MuCcxp+QiB:hKIegf"><value name="img"><shadow type="background_image_picker" id="DlZRG+~2X?MN-U2~r%aS"><field name="img">assets.image`Earth`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value></block></next></block></next></block></statement></block></xml>
